@@ -12,8 +12,7 @@ QX:
 
 [rewrite_local]👇
 
-https:\/\/bookapi\.ihuman\.com\/(v1\/get\_user\_info|v1\/get\_purchase\_list) url script-response-body hn.js
-
+https:\/\/bookapi\.ihuman\.com\/(v1\/get\_user\_info|v1\/get\_purchase\_list) url script-response-body https://github.com/jungege520/JGG/blob/master/hnsyhb.js
 
 MITM = bookapi.ihuman.com
 
