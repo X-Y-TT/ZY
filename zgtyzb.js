@@ -12,7 +12,7 @@ QX:
 
 [rewrite_local]👇
 
-http:\/\/rest\.zhibo\.tv\/room\/get\-room\-info\-v430 url script-response-body zgtyzb.js
+http:\/\/rest\.zhibo\.tv\/room\/get\-room\-info\-v430 url script-response-body https://github.com/jungege520/JGG/blob/master/zgtyzb.js
 
 
 MITM = rest.zhibo.tv
