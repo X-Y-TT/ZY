@@ -35,7 +35,10 @@ obj.data.uinfo.down_daily_remainders = "5201314";
 obj.data.uinfo.play_daily_remainders = "5201314";
 obj.data.uinfo.minivod_play_daily_remainders = "5201314";
 obj.data.uinfo.minivod_down_daily_remainders = "5201314";
-obj.data.user.mobi = "JungegeCN";
+obj.data.user.nickname = "JungegeCN";
+obj.data.user.avatar_url = "https://i.loli.net/2019/10/24/eCJuqz75WrL6ihQ.jpg";
+obj.data.user.goldcoin = "52013";
+obj.data.user.dueday = "JungegeCN";
 }
 if ($request.url.indexOf("/getGlobalData") != -1){
   delete obj.data.adgroups;
