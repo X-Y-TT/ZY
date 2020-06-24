@@ -5,7 +5,7 @@
 
 圈X
 #远程挂载
-https:\/\/api\.tbrapi\.com\/* url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/tbz.js
+http:\/\/api\.tbrapi\.com\:8080\/api\.php\/api\/user\/userinfo url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/tbr.js
 
 
 [MITM]
