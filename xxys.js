@@ -9,8 +9,11 @@ QQ交流：189519867
 QX:
 
 [rewrite_local]👇
+# 小小影视
+https:\/\/.*\..*\.com\/(vod\/reqplay\/|ucp/index|getGlobalData) url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/xxys.js.js
 
-https:\/\/.*\..*\.com\/(vod\/reqplay\/|ucp/index|getGlobalData) url script-response-body https://github.com/jungege520/JGG/blob/master/xxys.js
+https:\/\/.*.xiaoxiao(img|apps|appxs).com url request-header (\r\n)Cookie:.+(\r\n) request-header $1Cookie: xxx_api_auth=6131333537653261363463323331666265663763396239663835636662373930$2
+
 
 
 MITM = *.*apps.com, *.xiao*.com
