@@ -18,7 +18,7 @@ QQ吹牛群：316864309
 [rewrite_local]
 
 #1️⃣复制到本地
-https:\/\/.*\.(lagoapps|guoguoapps|pipiapps).com url request-header Cookie:.+ request-header Cookie: xxx_api_auth=3666393732366333343132363833646163623438313064646532653661393135
+https:\/\/.*\.(lagoapps|guoguoapps|pipiapps).com url request-header Cookie:.+ request-header Cookie: xxx_api_auth=3433346533343130636136363935363132383864623761323737363464376233
 
 #2️⃣远程挂载
 https?:\/\/.*\.(lagoapps|guoguoapps|pipiapps)\.com\/(ucp\/index|getGlobalData|.+\/reqplay\/|\/comment\/listing\/) url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/xjsp.js
