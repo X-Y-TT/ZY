@@ -4,7 +4,7 @@
 photonmang github:https://github.com/photonmang
 
 
-app download link :app.91porn005.me:2082/aff-aB6v2
+app download link :https://download.91porn004.me/aff-aB6v2
 
 TG：https://t.me/f4thorHCC
 
