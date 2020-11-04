@@ -1,4 +1,4 @@
-/*
+    /*
 综合LSP破解
 目前支持91短视频、汤头条
 
@@ -6,9 +6,9 @@
 [rewrite_local]
 
 #91短视频
-^http?:\/\/.+\.(my10api|(.*91.*))\.(com|tips|app|xyz)(:\d{2,5})?\/api.php$ url script-response-body lsp.js
+^https?:\/\/.+\.(my10api|(.*91.*))\.(com|tips|app|xyz)(:\d{2,5})?\/api.php$ url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/91-ttt.js
 #汤头条
-^http?:\/\/.+\.(.*tbrapi.*)\.(com|tips|app|xyz|net)(:\d{2,5})?\/api.php/.+$ url script-response-body lsp.js
+^https?:\/\/.+\.(.*tbrapi.*)\.(com|tips|app|xyz)(:\d{2,5})?\/api.php/.*$ url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/91-ttt.js
 
 [MITM]
 hostname: *.i91porn.*,*.tbrapi.*
