@@ -50,7 +50,7 @@ const  nc_shareCodeArr = [];
 const  mc_shareCodeArr = [];
 let K = 0;
 let tz='';
-const dd=1//单次任务延迟,默认1秒
+const dd=3//单次任务延迟,默认1秒
 const JDlogs = $.getdata('JDlogs') || true   //调试日志，默认关闭
 
 for (let index = 1; index <= 3; index++) {
