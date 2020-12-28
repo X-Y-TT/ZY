@@ -1,9 +1,9 @@
 {
-  "id": "photonmang.app.sub",
-  "name": "photonmang应用订阅",
-  "author": "@photonmang",
+  "id": "JungegeCN.app.sub",
+  "name": "JD互助码提交",
+  "author": "t.me/ThorHCC",
   "icon": "https://avatars3.githubusercontent.com/u/42340256?s=460&v=4",
-  "repo": "https://github.com/photonmang/quantumultX",
+  "repo": "https://github.com/JungegeCN/JGG",
   "apps": [
 {
       "id": "shareCode",
