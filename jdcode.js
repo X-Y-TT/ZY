@@ -1,6 +1,4 @@
 
-
-
 const jsname='互助码提交'
 const $ = Env(jsname)
 const dd_shareCode1 = $.getdata('dd_shareCode1') ;
