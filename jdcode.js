@@ -1,4 +1,4 @@
-*/
+
 
 
 const jsname='互助码提交'
