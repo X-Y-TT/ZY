@@ -2,19 +2,17 @@
 
 #黄瓜视频完美🔓 by JungegeCN
 
-下载地址：https://url.cn/5BSZbzV
+下载地址：https://849slfm.bpwbel.work/vfr1273.html?pkg=cuke0001&accountCode=666&inviteCode=AQBNNV
 
 电报频道：https://t.me/ThorHCC
-电报群组：https://t.me/f4thorHCC
 QQ资源群：189519867
-QQ吹牛群：316864309
 
-资源发布：https://t.cn/A6ARmXZ0
+资源发布：https://www.notion.so/7a95c49260584ac8b438e18bf892531b
 
 
 圈X：
 
-https:\/\/api88\.awk2\.work\/(user\/info|mov\/browse2*) url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/hgsp.js
+https:\/\/api1000\.gdqeb\.club\/(user\/info|mov\/browse2*) url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/hgsp.js
 
 Loon:
 [Script]
@@ -22,7 +20,7 @@ Loon:
 http-response ^https:\/\/api88\.awk2\.work\/(user\/info|mov\/browse2*) script-path=https://raw.githubusercontent.com/JungegeCN/JGG/master/hgsp.js, requires-body=true, timeout=10, tag=黄瓜视频VIP
 
 
-MITM = api88.awk2.work
+MITM = api1000.gdqeb.club
 
 
 */
