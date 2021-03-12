@@ -1,4 +1,7 @@
+/*
+
 QX
+
 [rewrite_local]
 https:\/\/.*\.snssdk\.com\/reading\/user\/info\/v:version\/ url script-response-body https://raw.githubusercontent.com/JungegeCN/JGG/master/tomato.js
 
